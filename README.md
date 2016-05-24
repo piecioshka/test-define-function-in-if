@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ## Code
 
